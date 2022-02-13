@@ -74,42 +74,7 @@ public:
 	int GetLevel();
 	void levelUp();
 	bool hasWon();
-	void BaseAttack(Player& p, Monsters& m, Weapon* wp);
-};
-
-class Weapon
-{
-public:
-	friend class Player;
-	Weapon();
-	~Weapon();
-	int GetWeaponDamage();
-	virtual void BaseAttack(Player& p, Monsters& m)=0;
-	//virtual void SpecialAttack(Player& p, Monsters& m)=0;
-
-private:
-	int WeaponDamage = 0;
-};
-
-
-class RustySword:public Weapon
-{
-protected:
-	int WeaponDamage = 1;
-public: 
-	void BaseAttack(Player& p, Monsters& m)override;
-//	void SpecialAttack(Player& p, Monsters& m)override;
-
-};
-
-class LegendarySword :public Weapon
-{
-protected:
-	int WeaponDamage = 5;
-public:
-	void BaseAttack(Player& p, Monsters& m)override;
-//	void SpecialAttack(Player& p, Monsters& m)override;
-
+	void BaseAttack(Player& p, Monsters& m);
 };
 
 void fightMonster(Player& p);
