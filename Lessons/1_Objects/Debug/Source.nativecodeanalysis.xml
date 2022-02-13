@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\sychev_a\desktop\lessons\source\repos\lessons\1_objects</FILEPATH>
+      <FILENAME>source.cpp</FILENAME>
+      <LINE>56</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Human::age' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Human::{ctor}</FUNCTION>
+    <DECORATED>??0Human@@QAE@XZ</DECORATED>
+    <FUNCLINE>56</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\sychev_a\desktop\lessons\source\repos\lessons\1_objects</FILEPATH>
+      <FILENAME>source.cpp</FILENAME>
+      <LINE>56</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Human::weihgt' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Human::{ctor}</FUNCTION>
+    <DECORATED>??0Human@@QAE@XZ</DECORATED>
+    <FUNCLINE>56</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

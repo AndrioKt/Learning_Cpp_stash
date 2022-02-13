@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\1_while\Source.cpp(26): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\1_while\Source.cpp(17): warning C4101: str: неиспользованная локальная переменная
+  LINK : не найден или не выполнена сборка C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Debug\1_while.exe при последней инкрементной компоновке; выполняется полная компоновка
+  1_while.vcxproj -> C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Debug\1_while.exe

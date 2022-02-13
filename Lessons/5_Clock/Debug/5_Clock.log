@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\5_Clock\Source.cpp(15): warning C4101: m: неиспользованная локальная переменная
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\5_Clock\Source.cpp(15): warning C4101: h: неиспользованная локальная переменная
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\5_Clock\Source.cpp(15): warning C4101: d: неиспользованная локальная переменная
+  LINK : не найден или не выполнена сборка C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Debug\5_Clock.exe при последней инкрементной компоновке; выполняется полная компоновка
+  5_Clock.vcxproj -> C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Debug\5_Clock.exe

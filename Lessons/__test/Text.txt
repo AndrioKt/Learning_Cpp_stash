@@ -1,0 +1,13 @@
+You have 2 cars in your collection: 
+
+
+Your 1 car mark: 6148
+Engine power: 168
+Collor: 16
+Cost: 81684
+
+
+Your 2 car mark: 6148
+Engine power: 168
+Collor: 16
+Cost: 81684

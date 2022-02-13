@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\__test\Source.cpp(8): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Debug\__test.exe при последней инкрементной компоновке; выполняется полная компоновка
+  __test.vcxproj -> C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Debug\__test.exe

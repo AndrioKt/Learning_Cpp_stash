@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Tic tac toe\Source.cpp(112): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Debug\Tic tac toe.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Tic tac toe.vcxproj -> C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Debug\Tic tac toe.exe

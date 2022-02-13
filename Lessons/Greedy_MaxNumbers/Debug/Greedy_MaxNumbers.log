@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Greedy_MaxNumbers\Source.cpp(32): warning C4101: temp: неиспользованная локальная переменная
+  LINK : не найден или не выполнена сборка C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Debug\Greedy_MaxNumbers.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Greedy_MaxNumbers.vcxproj -> C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Debug\Greedy_MaxNumbers.exe

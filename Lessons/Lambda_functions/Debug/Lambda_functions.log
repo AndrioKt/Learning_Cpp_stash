@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Lambda_functions\Source.cpp(34): error C2371: f: переопределение; различные базовые типы
+  C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Lambda_functions\Source.cpp(18): note:  см. объявление "f"
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Lambda_functions\Source.cpp(40): error C2065: f: необъявленный идентификатор

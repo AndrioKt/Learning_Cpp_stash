@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Fractional_knapsack\Source.cpp(31): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Fractional_knapsack\Source.cpp(34): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Fractional_knapsack\Source.cpp(55): warning C4838: преобразование из "double" в "int" требует сужающего преобразования
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Fractional_knapsack\Source.cpp(55): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Fractional_knapsack\Source.cpp(36): error C4716: Thing::AddThing: должна возвращать значение

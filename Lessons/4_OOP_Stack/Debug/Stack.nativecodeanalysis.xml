@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\sychev_a\desktop\lessons\source\repos\lessons\4_oop_stack</FILEPATH>
+      <FILENAME>stack.h</FILENAME>
+      <LINE>9</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Stack::arr' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Stack::{ctor}</FUNCTION>
+    <DECORATED>??0Stack@@QAE@H@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

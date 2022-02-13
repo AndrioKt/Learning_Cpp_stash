@@ -1,0 +1,7 @@
+﻿  Game.cpp
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\OOP_alphaGAME\Game.h(77): error C2061: синтаксическая ошибка: идентификатор "Weapon"
+  Source.cpp
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\OOP_alphaGAME\Game.h(77): error C2061: синтаксическая ошибка: идентификатор "Weapon"
+  Weapon.cpp
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\OOP_alphaGAME\Game.h(77): error C2061: синтаксическая ошибка: идентификатор "Weapon"
+  Создание кода...

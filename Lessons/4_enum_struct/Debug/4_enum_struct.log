@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\4_enum_struct\Source.cpp(123): warning C4715: getCardValue: значение возвращается не при всех путях выполнения
+  LINK : не найден или не выполнена сборка C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Debug\4_enum_struct.exe при последней инкрементной компоновке; выполняется полная компоновка
+  4_enum_struct.vcxproj -> C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Debug\4_enum_struct.exe

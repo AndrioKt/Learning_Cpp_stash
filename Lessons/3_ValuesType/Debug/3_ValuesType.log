@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\3_ValuesType\Source.cpp(15): warning C4101: f: неиспользованная локальная переменная
+  LINK : не найден или не выполнена сборка C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Debug\3_ValuesType.exe при последней инкрементной компоновке; выполняется полная компоновка
+  3_ValuesType.vcxproj -> C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Debug\3_ValuesType.exe

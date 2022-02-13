@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\6_Massive\Source.cpp(58): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  LINK : не найден или не выполнена сборка C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Debug\6_Massive.exe при последней инкрементной компоновке; выполняется полная компоновка
+  6_Massive.vcxproj -> C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Debug\6_Massive.exe

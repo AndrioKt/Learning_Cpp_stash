@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\sychev_a\desktop\lessons\source\repos\lessons\c2_self_sin_cos</FILEPATH>
+      <FILENAME>source.cpp</FILENAME>
+      <LINE>22</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>28251</DEFECTCODE>
+    <DESCRIPTION>Inconsistent annotation for 'sin': this instance has no annotations. See c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(483). Note: There are several prototypes for this function. This warning compares the first with instance number 3. </DESCRIPTION>
+    <FUNCTION>sin</FUNCTION>
+    <DECORATED>sin</DECORATED>
+    <FUNCLINE>22</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\sychev_a\desktop\lessons\source\repos\lessons\c2_self_sin_cos</FILEPATH>
+      <FILENAME>source.cpp</FILENAME>
+      <LINE>30</LINE>
+      <COLUMN>31</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>sin</FUNCTION>
+    <DECORATED>sin</DECORATED>
+    <FUNCLINE>22</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\sychev_a\desktop\lessons\source\repos\lessons\c2_self_sin_cos</FILEPATH>
+      <FILENAME>source.cpp</FILENAME>
+      <LINE>30</LINE>
+      <COLUMN>26</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>sin</FUNCTION>
+    <DECORATED>sin</DECORATED>
+    <FUNCLINE>22</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\sychev_a\desktop\lessons\source\repos\lessons\c2_self_sin_cos</FILEPATH>
+      <FILENAME>source.cpp</FILENAME>
+      <LINE>35</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>28251</DEFECTCODE>
+    <DESCRIPTION>Inconsistent annotation for 'cos': this instance has no annotations. See c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(475). Note: There are several prototypes for this function. This warning compares the first with instance number 3. </DESCRIPTION>
+    <FUNCTION>cos</FUNCTION>
+    <DECORATED>cos</DECORATED>
+    <FUNCLINE>35</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\sychev_a\desktop\lessons\source\repos\lessons\c2_self_sin_cos</FILEPATH>
+      <FILENAME>source.cpp</FILENAME>
+      <LINE>43</LINE>
+      <COLUMN>31</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>cos</FUNCTION>
+    <DECORATED>cos</DECORATED>
+    <FUNCLINE>35</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\sychev_a\desktop\lessons\source\repos\lessons\c2_self_sin_cos</FILEPATH>
+      <FILENAME>source.cpp</FILENAME>
+      <LINE>43</LINE>
+      <COLUMN>26</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>cos</FUNCTION>
+    <DECORATED>cos</DECORATED>
+    <FUNCLINE>35</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

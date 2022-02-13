@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\5_Cicles\Source.cpp(16): warning C4101: quit: неиспользованная локальная переменная
+  LINK : не найден или не выполнена сборка C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Debug\5_Cycles.exe при последней инкрементной компоновке; выполняется полная компоновка
+  5_Cicles.vcxproj -> C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Debug\5_Cycles.exe

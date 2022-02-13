@@ -1,0 +1,7 @@
+﻿  Account.cpp
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\a10_OOP_ClassWizard\Account.cpp(51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\a10_OOP_ClassWizard\Account.cpp(59): warning C4018: >=: несоответствие типов со знаком и без знака
+  Source.cpp
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Debug\a10_OOP_ClassWizard.exe при последней инкрементной компоновке; выполняется полная компоновка
+  a10_OOP_ClassWizard.vcxproj -> C:\Users\Sychev_A\Desktop\Lessons\source\repos\Lessons\Debug\a10_OOP_ClassWizard.exe
